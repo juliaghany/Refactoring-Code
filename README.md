@@ -1,6 +1,7 @@
 # Refactoring Code
 
 
+![Model](https://github.com/juliaghany/challenge-1/blob/main/assets/images/_C__Users_julia_OneDrive_Documents_bootcamp_challenge-1_index.html.png)
 
 ## Description
 
@@ -14,14 +15,14 @@
 
 - My instructor advised me to add here that I forgot to make commits as I worked through the project. All of my changes will be made in one commit, but this will be a mistake that I won't make in the future. 
 
-# Installation
+## Installation
 
 N/A
 
-# Usage 
+## Usage 
 
 To use this webpage, you can click on any of the links in the navigation bar to direct you to the sections that provide information on that particular section. For example, if you click on "Search Engine Optimization", it will move you down the webpage so that section appears on your screen. 
 
-# Credits
+## Credits
 
 My tutor, Alexis Gonzalez, helped me with removing the "hero" and "content" class attributes. He also helped me revise some of my alt attributes to be more descriptive and revise some of my CSS comments. 
