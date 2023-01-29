@@ -1,7 +1,7 @@
 # Refactoring Code
 
 https://juliaghany.github.io/Refactoring-Code/
-![Model](https://github.com/juliaghany/challenge-1/blob/main/assets/images/_C__Users_julia_OneDrive_Documents_bootcamp_challenge-1_index.html.png)
+![Model](C:\Users\julia\Downloads\_C__Users_julia_onedrive_documents_bootcamp_challenge-1_index.html (2).png)
 
 ## Description
 
